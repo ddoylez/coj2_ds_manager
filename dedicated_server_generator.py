@@ -2,7 +2,7 @@ import argparse
 import json
 import random
 
-MODES = ['hiistorical', 'deathmatch', 'teamdeathmatch', 'wanted', 'teamwanted']
+MODES = ['historical', 'deathmatch', 'teamdeathmatch', 'wanted', 'teamwanted']
 DEFAULT_SERVER_NAME = 'Krampus in da House'
 OUTPUT_FILE = 'DedicatedServerSettings.ini'
 MAP_DEF_FILE = 'maps_def.json'
