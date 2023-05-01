@@ -1,1 +1,1 @@
-python3.10 dedicated_server_generator.py -c -o /home/rogototo/servers/coj2/CoJ2/DedicatedServerSettings.ini
+python3.10 dedicated_server_generator.py -o /home/rogototo/servers/coj2/CoJ2/DedicatedServerSettings.ini
