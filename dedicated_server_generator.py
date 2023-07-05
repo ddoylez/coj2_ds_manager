@@ -115,6 +115,7 @@ def get_map_pool(use_custom_maps):
         # map_pool.extend(get_map_set('dlc'))
         map_pool.extend(get_map_set('custom'))
         map_pool.extend(get_map_set('heaven'))
+        map_pool.extend(get_map_set('cowboy_ua'))
     return map_pool
 
 

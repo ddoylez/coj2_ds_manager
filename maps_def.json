@@ -167,45 +167,6 @@
     ],
     "in_rotation": "True"
   },
-  "backstreet": {
-    "map_name": "BackStreet",
-    "map_id_var": "_MP_MAP_CUSTOM0",
-    "map_id": "12",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "bandidos": {
-    "map_name": "Bandidos",
-    "map_id_var": "_MP_MAP_CUSTOM1",
-    "map_id": "13",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "bankrobbery": {
-    "map_name": "BankRobbery",
-    "map_id_var": "_MP_MAP_CUSTOM2",
-    "map_id": "14",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
   "calico_ghost_town": {
     "map_name": "Calico Ghost Town",
     "map_id_var": "_MP_MAP_CUSTOM3",
@@ -234,260 +195,10 @@
     ],
     "in_rotation": "True"
   },
-  "combustion": {
-    "map_name": "Combustion",
-    "map_id_var": "_MP_MAP_CUSTOM5",
-    "map_id": "17",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "crashland": {
-    "map_name": "Crashland",
-    "map_id_var": "_MP_MAP_CUSTOM6",
-    "map_id": "18",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "cursed_land": {
-    "map_name": "Cursed land",
-    "map_id_var": "_MP_MAP_CUSTOM7",
-    "map_id": "19",
-    "map_set": "custom",
-    "modes": [
-      "historical",
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "deadwood_city": {
-    "map_name": "Deadwood City",
-    "map_id_var": "_MP_MAP_CUSTOM8",
-    "map_id": "20",
-    "map_set": "heaven",
-    "modes": [
-      "historical",
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "dedham": {
-    "map_name": "Dedham",
-    "map_id_var": "_MP_MAP_CUSTOM9",
-    "map_id": "21",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "enclosure": {
-    "map_name": "Enclosure",
-    "map_id_var": "_MP_MAP_CUSTOM10",
-    "map_id": "22",
-    "map_set": "custom",
-    "modes": [
-      "historical",
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True",
-    "note": "deathmatch loads skirmish"
-  },
-  "fiesta_mexicana": {
-    "map_name": "Fiesta Mexicana",
-    "map_id_var": "_MP_MAP_CUSTOM11",
-    "map_id": "23",
-    "map_set": "heaven",
-    "modes": [
-      "historical",
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "ghost_town": {
-    "map_name": "Ghost Town",
-    "map_id_var": "_MP_MAP_CUSTOM12",
-    "map_id": "24",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "goldrush_1880": {
-    "map_name": "RedRiver",
-    "map_id_var": "_MP_MAP_CUSTOM13",
-    "map_id": "25",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "green_hell": {
-    "map_name": "Green_Hell",
-    "map_id_var": "_MP_MAP_CUSTOM14",
-    "map_id": "26",
-    "map_set": "custom",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "helldorado": {
-    "map_name": "Helldorado",
-    "map_id_var": "_MP_MAP_CUSTOM15",
-    "map_id": "27",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "high_moon": {
-    "map_name": "HighMoon",
-    "map_id_var": "_MP_MAP_CUSTOM16",
-    "map_id": "28",
-    "map_set": "heaven",
-    "modes": [
-      "historical",
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "highnoon": {
-    "map_name": "HighNoon",
-    "map_id_var": "_MP_MAP_CUSTOM17",
-    "map_id": "29",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "kabul": {
-    "map_name": "Kabul",
-    "map_id_var": "_MP_MAP_CUSTOM18",
-    "map_id": "30",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "last_bullet_rebirth2": {
-    "map_name": "Last bullet rebirth",
-    "map_id_var": "_MP_MAP_CUSTOM20",
-    "map_id": "32",
-    "map_set": "custom",
-    "modes": [
-      "teamdeathmatch"
-    ],
-    "in_rotation": "False",
-    "note": "dupe of last_bullet_rebirth"
-  },
-  "last_bullet_rebirth": {
-    "map_name": "Grand Canyon",
-    "map_id_var": "_MP_MAP_CUSTOM20",
-    "map_id": "32",
-    "map_set": "heaven",
-    "modes": [
-      "teamdeathmatch"
-    ],
-    "in_rotation": "True"
-  },
-  "little_canyon": {
-    "map_name": "Little_Canyon",
-    "map_id_var": "_MP_MAP_CUSTOM21",
-    "map_id": "33",
-    "map_set": "custom",
-    "modes": [
-      "historical",
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
   "magnificent3": {
     "map_name": "Magnificent II",
     "map_id_var": "_MP_MAP_CUSTOM22",
     "map_id": "34",
-    "map_set": "heaven",
-    "modes": [
-      "historical",
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "main_street": {
-    "map_name": "Main Street",
-    "map_id_var": "_MP_MAP_CUSTOM23",
-    "map_id": "35",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "False"
-  },
-  "mexico_1888": {
-    "map_name": "Mexico",
-    "map_id_var": "_MP_MAP_CUSTOM24",
-    "map_id": "36",
     "map_set": "heaven",
     "modes": [
       "historical",
@@ -512,75 +223,6 @@
     ],
     "in_rotation": "True"
   },
-  "okcorral": {
-    "map_name": "OK Corral",
-    "map_id_var": "_MP_MAP_CUSTOM26",
-    "map_id": "38",
-    "map_set": "heaven",
-    "modes": [
-      "historical",
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "False"
-  },
-  "pancho": {
-    "map_name": "Pancho",
-    "map_id_var": "_MP_MAP_CUSTOM27",
-    "map_id": "39",
-    "map_set": "custom",
-    "modes": [
-      "historical",
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "pancho2": {
-    "map_name": "PanchoVille",
-    "map_id_var": "_MP_MAP_CUSTOM27",
-    "map_id": "40",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "False",
-    "note": "dupe of pancho"
-  },
-  "somerton": {
-    "map_name": "Somerton",
-    "map_id_var": "_MP_MAP_CUSTOM29",
-    "map_id": "41",
-    "map_set": "custom",
-    "modes": [
-      "historical",
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "True"
-  },
-  "tombstone_1888": {
-    "map_name": "Redemption",
-    "map_id_var": "_MP_MAP_CUSTOM28",
-    "map_id": "40",
-    "map_set": "heaven",
-    "modes": [
-      "deathmatch",
-      "teamdeathmatch",
-      "wanted",
-      "teamwanted"
-    ],
-    "in_rotation": "False"
-  },
   "tombstone3": {
     "map_name": "Tombstone II",
     "map_id_var": "_MP_MAP_CUSTOM19",
@@ -592,6 +234,3151 @@
       "teamdeathmatch",
       "wanted",
       "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "021": {
+    "map_name": "021",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "a_maze_ing": {
+    "map_name": "A_maze_ing",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "absolution": {
+    "map_name": "ABSOLTUION",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "acapulcos": {
+    "map_name": "Acapulcos",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "adobe_walls": {
+    "map_name": "Adobe Walls",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "agua_caliente": {
+    "map_name": "Agua Caliente",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "ahausen": {
+    "map_name": "Ahausen",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "alfred_thomas_the_first": {
+    "map_name": "alfred_thomas_The_first",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "andrei_and_mihai": {
+    "map_name": "Andrei and Mihai",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "apache_junction": {
+    "map_name": "Apache Junction",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "arena": {
+    "map_name": "ARENA",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "armageddon": {
+    "map_name": "Armageddon",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "arulco": {
+    "map_name": "Arulco",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "atom_heart_father": {
+    "map_name": "Atom_Heart_Father",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "aztecs_treasure": {
+    "map_name": "Aztecs treasure",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "aztecvolcano": {
+    "map_name": "Aztec Volcano",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "backstreet": {
+    "map_name": "BackStreet",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "bandidos": {
+    "map_name": "Bandidos",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "bankrobbery": {
+    "map_name": "BankRobbery",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "battle_on_the_border": {
+    "map_name": "Battle on the Border",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "battlefield": {
+    "map_name": "battlefield",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "battleground_zero": {
+    "map_name": "Battleground Zero",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "bazaar": {
+    "map_name": "Bazaar",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "bend_2": {
+    "map_name": "BEND 2",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "big_whiskey": {
+    "map_name": "Big Whiskey",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "black_bear": {
+    "map_name": "Black Bear",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "blacksheeps_posse": {
+    "map_name": "Blacksheeps_posse",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "blitz": {
+    "map_name": "Blitz",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "blitz_2": {
+    "map_name": "Blitz 2",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "blueberry": {
+    "map_name": "blueberry",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "bosteira": {
+    "map_name": "bosteira",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "boston_city": {
+    "map_name": "Boston City",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "br_bankrobbery": {
+    "map_name": "br_bankrobbery",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "br_revolution": {
+    "map_name": "br_revolution",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "bremen": {
+    "map_name": "Bremen",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "butcher_ville": {
+    "map_name": "Butcher Ville",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "cantina_big_bang": {
+    "map_name": "cantina big bang",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "canyon_falls": {
+    "map_name": "Canyon Falls",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "canyon_skirmish": {
+    "map_name": "Canyon Skirmish",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "canyon_tower": {
+    "map_name": "Canyon Tower",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "caracol": {
+    "map_name": "Caracol",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "carcel": {
+    "map_name": "Carcel",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "cement_dust_vc": {
+    "map_name": "Cement Dust VC",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "chilluevar": {
+    "map_name": "CHILLUEVAR",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "chisinau": {
+    "map_name": "chisinau",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [],
+    "in_rotation": "False"
+  },
+  "city_friends": {
+    "map_name": "CITY FRIENDS",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "wanted"
+    ],
+    "in_rotation": "False"
+  },
+  "classic_city": {
+    "map_name": "Classic_City",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "close_range": {
+    "map_name": "Close Range",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "coffee_time": {
+    "map_name": "coffee_time",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [],
+    "in_rotation": "False"
+  },
+  "coj_assault": {
+    "map_name": "coj_assault",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "cojfans": {
+    "map_name": "COJFans",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "collapse": {
+    "map_name": "COLLAPSE",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "colorado_shooting": {
+    "map_name": "Colorado Shooting",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "combustion": {
+    "map_name": "Combustion",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "core": {
+    "map_name": "Core",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "False"
+  },
+  "coren5": {
+    "map_name": "CoreN5",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "wanted"
+    ],
+    "in_rotation": "True"
+  },
+  "corrida": {
+    "map_name": "Corrida",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "courtyard": {
+    "map_name": "Courtyard",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "crashcoj2ed": {
+    "map_name": "Crash COJ2 Edition",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "crashland": {
+    "map_name": "Crashland",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "cratefight": {
+    "map_name": "Cratefight",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted"
+    ],
+    "in_rotation": "True"
+  },
+  "crazy_city": {
+    "map_name": "Crazy city",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "crusade": {
+    "map_name": "Crusade",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "False"
+  },
+  "crusade-bib_edition": {
+    "map_name": "Crusade-BIB edition",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "cs_aztec": {
+    "map_name": "cs_aztec",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "cursed_land": {
+    "map_name": "Cursed land",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "danielbastiflo": {
+    "map_name": "DanielBastiFlo",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "False"
+  },
+  "deadwood_city": {
+    "map_name": "Deadwood city",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "death_end": {
+    "map_name": "Death End",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "death_woods": {
+    "map_name": "Death Woods",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "deception": {
+    "map_name": "Deception",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "dedham": {
+    "map_name": "Dedham",
+    "map_id_var": "_MP_MAP_CUSTOM12",
+    "map_id": "24",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "desert": {
+    "map_name": "Desert",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "desperados": {
+    "map_name": "Desperados",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "dodge": {
+    "map_name": "Dodge",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "dodge_city": {
+    "map_name": "Dodge City",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "dome": {
+    "map_name": "Dome",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "don_mendoza_house": {
+    "map_name": "Aministration House",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "duelo_al_sol": {
+    "map_name": "Duelo al sol",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "False"
+  },
+  "dust_coj_ed": {
+    "map_name": "Dust_coj_ed",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "dysentery": {
+    "map_name": "Dysentery",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "wanted"
+    ],
+    "in_rotation": "True"
+  },
+  "el_dia_final": {
+    "map_name": "El dia Final",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "el_duelos": {
+    "map_name": "El Duelos",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "el_fitcha": {
+    "map_name": "El Fitcha",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "el_pasoo": {
+    "map_name": "El Pasoo",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "el_pitas_de_la_minos": {
+    "map_name": "El Pitas de la Minos",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted"
+    ],
+    "in_rotation": "True"
+  },
+  "el_santos": {
+    "map_name": "El Santos",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "enclosure": {
+    "map_name": "Enclosure",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "end_of_valley": {
+    "map_name": "End_of_Valley",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "enemy_town": {
+    "map_name": "Enemy Town",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "falcon": {
+    "map_name": "FALCON",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "favel": {
+    "map_name": "Favel",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "fiesta_mexicana": {
+    "map_name": "Fiesta Mexicana",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "fittotenils": {
+    "map_name": "fittotenils",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "forest_ambush": {
+    "map_name": "Forest Ambush",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "fort_alamo": {
+    "map_name": "Fort Alamo",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "fortstanton_ltr": {
+    "map_name": "FORTSTANTON LTR",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "fortwespoint": {
+    "map_name": "FortWespoint",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "gatling_town": {
+    "map_name": "Gatling Town",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "gettysburg": {
+    "map_name": "Gettysburg",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "ggg": {
+    "map_name": "ggg",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "ghost_town": {
+    "map_name": "Ghost Town",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "ghostcity": {
+    "map_name": "ghostcity",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted"
+    ],
+    "in_rotation": "False"
+  },
+  "ghosts": {
+    "map_name": "Ghosts",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "goat_snipe_1": {
+    "map_name": "goat snipe 1",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "gold_rush": {
+    "map_name": "Gold Rush",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "goldrush_1880": {
+    "map_name": "RedRiver",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "gotham": {
+    "map_name": "Gotham",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "green_hell": {
+    "map_name": "Vietnam",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "guildhall": {
+    "map_name": "GuildHall",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "gunfight_at_ok_corral": {
+    "map_name": "Gunfight_at_OK_Corral",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "gunnar_town": {
+    "map_name": "Gunnar Town",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "happy_farm": {
+    "map_name": "Happy Farm",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "harbor": {
+    "map_name": "Harbor",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "harbor_north": {
+    "map_name": "harbor_north",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "helldorado": {
+    "map_name": "helldorado",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "hellviev": {
+    "map_name": "Hellviev",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "high_moon": {
+    "map_name": "High Moon",
+    "map_id_var": "_MP_MAP_CUSTOM15",
+    "map_id": "27",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "highnoon": {
+    "map_name": "Highnoon",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "teamdeathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "Holy_Gun": {
+    "map_name": "Holy_Gun",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "home_tree_": {
+    "map_name": "Home Tree ",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "horse_town": {
+    "map_name": "Horse Town",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "horses": {
+    "map_name": "HORSES",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "False"
+  },
+  "houses_in_the_woods": {
+    "map_name": "Houses_In_The_Woods",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "india_trap": {
+    "map_name": "India Trap",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "indian_base_": {
+    "map_name": "Indian_base_",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "indios": {
+    "map_name": "indios",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "insodia": {
+    "map_name": "INsoDIA",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "invasion": {
+    "map_name": "Invasion",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "islands": {
+    "map_name": "islands",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "justice_city": {
+    "map_name": "Justice City",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "kabul": {
+    "map_name": "Kabul",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "kakme": {
+    "map_name": "kakme",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "False"
+  },
+  "karson_city": {
+    "map_name": "Karson_City",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "la_alameda": {
+    "map_name": "La Alameda",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "False"
+  },
+  "laberinto": {
+    "map_name": "laberinto",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "last_bullet_rebirth": {
+    "map_name": "Grand Canyon",
+    "map_id_var": "_MP_MAP_CUSTOM20",
+    "map_id": "32",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "teamdeathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "last_canyon": {
+    "map_name": "Last Canyon",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "last_hope": {
+    "map_name": "Last Hope",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "last_stop": {
+    "map_name": "Last Stop",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "lawman_flying_test": {
+    "map_name": "lawman_flying_test",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "teamdeathmatch"
+    ],
+    "in_rotation": "False"
+  },
+  "lawman_flying_test2": {
+    "map_name": "lawman_flying_test2",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "teamdeathmatch"
+    ],
+    "in_rotation": "False"
+  },
+  "left_by_miners": {
+    "map_name": "left by miners",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "leftcity": {
+    "map_name": "Left City",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "little_canyon": {
+    "map_name": "Little_Canyon",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "little_valley": {
+    "map_name": "little_valley",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "locura_mejicana": {
+    "map_name": "Locura Mejicana",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "los_ponchos": {
+    "map_name": "Los_Ponchos",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "los_tres_sombreros": {
+    "map_name": "Los Tres Sombreros",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "lost_city": {
+    "map_name": "Lost city",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "lucky_luke": {
+    "map_name": "Lucky Luke",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "madness_elite": {
+    "map_name": "Madness_elite",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "madville": {
+    "map_name": "MadVille",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "main_street": {
+    "map_name": "main_street",
+    "map_id_var": "_MP_MAP_CUSTOM16",
+    "map_id": "28",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "map": {
+    "map_name": "map",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "mario": {
+    "map_name": "Mario",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "martiansolution": {
+    "map_name": "MartianSolution",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted"
+    ],
+    "in_rotation": "True"
+  },
+  "mason_city": {
+    "map_name": "Mason City",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "mexicioso": {
+    "map_name": "Mexicioso",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "mexico_1888": {
+    "map_name": "Mexico",
+    "map_id_var": "_MP_MAP_CUSTOM17",
+    "map_id": "29",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "mexico_battle": {
+    "map_name": "Mexico Battle",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "mexico_territory": {
+    "map_name": "Mexico_Territory",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "miasto_meksyk": {
+    "map_name": "Miasto Meksyk",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "midtown": {
+    "map_name": "Midtown",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "midtown_666_midtown": {
+    "map_name": "midtown 666 midtown",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "mine": {
+    "map_name": "Mine",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "minersshooting": {
+    "map_name": "MinersShooting MP",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "mini_vc": {
+    "map_name": "Mini VC",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "murkierforest": {
+    "map_name": "MurkierForest",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "nepa": {
+    "map_name": "Nepa",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "nightstreet": {
+    "map_name": "NightStreet",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "niksun": {
+    "map_name": "niksun",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [],
+    "in_rotation": "False"
+  },
+  "noosh_abad": {
+    "map_name": "Noosh Abad",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "o1": {
+    "map_name": "o1",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "oakcreekcanyon": {
+    "map_name": "OakCreekCanyon",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "okcorral": {
+    "map_name": "OKCorral",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "okcorral_v2_coj2_": {
+    "map_name": "OKCorral v2 CoJ2 ",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted"
+    ],
+    "in_rotation": "True"
+  },
+  "old_glory": {
+    "map_name": "Old_Glory",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "oldtown": {
+    "map_name": "Oldtown",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "olmexico": {
+    "map_name": "OLMexico",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "oregon": {
+    "map_name": "oregon",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "wanted"
+    ],
+    "in_rotation": "True"
+  },
+  "outland": {
+    "map_name": "Outland",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "pancho": {
+    "map_name": "Pancho",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "port_arica": {
+    "map_name": "Port Arica",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "qqqqqqqqq": {
+    "map_name": "qqqqqqqqq",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "False"
+  },
+  "raid": {
+    "map_name": "Raid",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "rampage": {
+    "map_name": "Rampage",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "raven": {
+    "map_name": "Raven",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted"
+    ],
+    "in_rotation": "True"
+  },
+  "red_hideout": {
+    "map_name": "red_hideout",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "red_ribbon_city_": {
+    "map_name": "Red Ribbon City ",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "red_ribbon_territory": {
+    "map_name": "Red Ribbon Territory",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "revolver_forest": {
+    "map_name": "Revolver Forest",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "river_city": {
+    "map_name": "River City",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "ro_1": {
+    "map_name": "RO 1",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "roadtrain": {
+    "map_name": "RoadTrain",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "rockriver": {
+    "map_name": "Rock River",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "rust1887": {
+    "map_name": "rust1887",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [],
+    "in_rotation": "False"
+  },
+  "samhain": {
+    "map_name": "Samhain",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "san_juan": {
+    "map_name": "San_Juan",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "san_miguel": {
+    "map_name": "San Miguel",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "schabowy": {
+    "map_name": "schabowy",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "settlement": {
+    "map_name": "Settlement",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "teamdeathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "sgn_desperados": {
+    "map_name": "SGN Desperados",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "shopping_centre": {
+    "map_name": "shopping centre",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "showdown": {
+    "map_name": "showdown",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "sht_training": {
+    "map_name": "SHT_Training",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "slava": {
+    "map_name": "Slava",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "small_ville": {
+    "map_name": "Small Ville",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "wanted"
+    ],
+    "in_rotation": "True"
+  },
+  "smallville": {
+    "map_name": "smallville",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "somerton": {
+    "map_name": "Somerton",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "sonora_pass": {
+    "map_name": "Sonora Pass",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "False"
+  },
+  "souffle_brulant": {
+    "map_name": "Souffle brulant",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "souffle_glacial": {
+    "map_name": "souffle glacial",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "southern_cross": {
+    "map_name": "Southern Cross",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "st_petersgate_addition": {
+    "map_name": "St_PetersGate_addition",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "Steamer": {
+    "map_name": "Steamer",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "stronghold": {
+    "map_name": "Stronghold",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted"
+    ],
+    "in_rotation": "True"
+  },
+  "super_call_of_juarez_bros": {
+    "map_name": "Super Call of Juarez bros",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "False"
+  },
+  "temple_of_hunab_ku": {
+    "map_name": "Temple of Hunab Ku",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "tequila_hill": {
+    "map_name": "Tequila Hill",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "test_1": {
+    "map_name": "Test 1",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "test3": {
+    "map_name": "test3",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "the_bayou": {
+    "map_name": "The Bayou",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "the_black_barn": {
+    "map_name": "the black barn",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "the_cartel": {
+    "map_name": "The Cartel",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "the_cave": {
+    "map_name": "The cave",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "the_cellar": {
+    "map_name": "The Cellar",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "the_circle": {
+    "map_name": "The circle",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "the_cliff": {
+    "map_name": "The Cliff",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "the_dead_mans_grave": {
+    "map_name": "THE DEAD MANS GRAVE",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "teamdeathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "the_great_robbery": {
+    "map_name": "The Great Robbery",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "the_hotel": {
+    "map_name": "The Hotel",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "the_hunting_island": {
+    "map_name": "The HuNnTiNg Island!!",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "False"
+  },
+  "the_old_trench": {
+    "map_name": "the old trench",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "the_rift": {
+    "map_name": "The rift",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "the_stranger": {
+    "map_name": "The Stranger",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "thx_a_lot": {
+    "map_name": "thx a lot",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "timisoara": {
+    "map_name": "Timisoara",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "tomat": {
+    "map_name": "tomat",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "tombstone_1888": {
+    "map_name": "Deadwood",
+    "map_id_var": "_MP_MAP_CUSTOM18",
+    "map_id": "30",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "tornadoville": {
+    "map_name": "TornadoVille",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "toycowboys": {
+    "map_name": "toycowboys",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "trench_field_": {
+    "map_name": "Trench Field ",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "true_grit": {
+    "map_name": "True Gift",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "tuman_elite": {
+    "map_name": "tuman_elite",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "deathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "twin_rocks": {
+    "map_name": "Twin Rocks",
+    "map_id_var": "_MP_MAP_CUSTOM19",
+    "map_id": "31",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "unforgiven": {
+    "map_name": "Unforgiven",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "walnut_grove": {
+    "map_name": "Walnut Grove",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "western_war": {
+    "map_name": "Western War",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "wanted"
+    ],
+    "in_rotation": "True"
+  },
+  "wild_west": {
+    "map_name": "WILD WEST",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "teamdeathmatch"
+    ],
+    "in_rotation": "True"
+  },
+  "wildwhidewest": {
+    "map_name": "WILDWHIDEWEST",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "wyzima": {
+    "map_name": "Wyzima",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "wyzimska": {
+    "map_name": "Wyzimska",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "xochipilli": {
+    "map_name": "Xochipilli",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "cowboy_ua",
+    "modes": [
+      "historical"
     ],
     "in_rotation": "True"
   }
