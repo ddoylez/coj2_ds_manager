@@ -1,1 +1,1 @@
-"C:\Program Files (x86)\Python311-32\python.exe" dedicated_server_generator.py -o G:\servers\coj2\CoJ2\DedicatedServerSettings.ini
+"C:\Program Files (x86)\Python311-32\python.exe" dedicated_server_generator.py -o G:\servers\coj2\CoJ2\DedicatedServerSettings.ini -c -l 10

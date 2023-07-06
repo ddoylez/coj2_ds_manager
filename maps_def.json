@@ -3378,7 +3378,63 @@
     "map_id": "13",
     "map_set": "cowboy_ua",
     "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "klondike_dlc": {
+    "map_name": "Klondike_DLC",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "dlc",
+    "modes": [
       "historical"
+    ],
+    "in_rotation": "True"
+  },
+  "liberate_dlc": {
+    "map_name": "Liberate_DLC",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "dlc",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "little_bighorn_dlc": {
+    "map_name": "Little_Bighorn_DLC",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "dlc",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
+    ],
+    "in_rotation": "True"
+  },
+  "prisoncamp_dlc": {
+    "map_name": "PrisonCamp_DLC",
+    "map_id_var": "_MP_MAP_CUSTOM1",
+    "map_id": "13",
+    "map_set": "dlc",
+    "modes": [
+      "historical",
+      "deathmatch",
+      "teamdeathmatch",
+      "wanted",
+      "teamwanted"
     ],
     "in_rotation": "True"
   }
